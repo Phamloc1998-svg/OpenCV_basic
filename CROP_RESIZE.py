@@ -4,7 +4,7 @@ import numpy as np
 img = cv2.imread("ngoc.jpg")
 print(img.shape)
  
-imgResize = cv2.resize(img,(1000,500))
+imgResize = cv2.resize(img,(500,500))
 print(imgResize.shape)
 
 x = int(input())
