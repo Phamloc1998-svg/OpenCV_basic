@@ -1,2 +1,2 @@
-# OpenCV_basic
-Không có gì hết á
+# OpenCV
+Ghi chép quá trình tìm hiểu về OpenCV
